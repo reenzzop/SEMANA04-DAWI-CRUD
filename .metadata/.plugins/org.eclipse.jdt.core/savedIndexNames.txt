@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+D:\RENZO\DAW I\Semana 01\.metadata\.plugins\org.eclipse.jdt.core
+3428338033.index
+2099247311.index
+483966528.index
+4062864311.index
+4042771225.index
